@@ -52,3 +52,7 @@ int main(){
 	o1.dodajsekundy(10)
 
 }
+
+
+//sscanf(tekst(do tbalicy), "...", adres zmiennej)
+//sprintf -||-
